@@ -28,12 +28,16 @@ I am a passionate **Computer Science student** dedicated to continuous learning 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
+
 
 ### Machine Learning Tools  
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
 </div>
 
 ### Developer Tools  
@@ -61,6 +65,12 @@ I am a passionate **Computer Science student** dedicated to continuous learning 
 - Preprocessed student reviews using tokenization & lemmatization.  
 - Trained two models: **Naïve Bayes (82%)** and **Decision Tree (98%)** classifiers.  
 
+💻 **[Real-Time Lexical Analyzer for C](https://github.com/rawatkhushi04/Real-time-lexical-analyzer)**  
+- Web-based tool that analyzes C source code in real-time, identifying lexical components like keywords, identifiers, constants, operators, and symbols  
+- Uses regex-based token extraction for immediate feedback without compilation  
+- Built with HTML, CSS, and JavaScript to provide an interactive and clean UI  
+
+
 ---
 
 ## 🏆 Certifications & Achievements
@@ -79,15 +89,17 @@ I am a passionate **Computer Science student** dedicated to continuous learning 
 ---
 
 ## 🤝 Let's Connect!  
-
 💬 I’m always excited to collaborate on innovative projects and contribute to meaningful causes.  
 
 <div align="center">
   <a href="https://github.com/rawatkhushi04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/khushi-rawat-907676270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rwtkhushi2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
