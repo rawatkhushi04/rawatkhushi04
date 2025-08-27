@@ -1,7 +1,8 @@
-  <div align="center">
+
+  <h1>Hi there! 👋 I'm Km Khushi</h1>
+    <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
   </div>
-  <h1>Hi there! 👋 I'm Km Khushi</h1>
 
   <h2>🚀 About Me</h2>
   I am a passionate <b>Computer Science student</b> dedicated to continuous learning and professional growth. My goal is to leverage my technical skills and academic knowledge to contribute effectively to <b>innovative projects</b>.<br>
