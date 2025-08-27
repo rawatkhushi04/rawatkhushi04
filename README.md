@@ -6,13 +6,15 @@
 
   <h2>🚀 About Me</h2>
   I am a passionate <b>Computer Science student</b> dedicated to continuous learning and professional growth. My goal is to leverage my technical skills and academic knowledge to contribute effectively to <b>innovative projects</b>.<br>
-  <ul>
+
     
-    <li>🌱 Constantly expanding my knowledge in <b>Machine Learning, Cloud Computing, and AI development</b>.</li>
-    <li>👯 Eager to collaborate on impactful solutions and open-source projects.</li>
-    <li>🎯 Goal: Apply problem-solving and critical thinking to create meaningful solutions.</li>
-    <li>⚡ Fun Fact: Selected as <b>Runner-up at J.P. Morgan Code for Good 2025</b>, chosen from over <b>50,000 applicants</b>.</li>
-  </ul>
+     
+- 🌱 Constantly expanding my knowledge in **Machine Learning, Cloud Computing, and AI development**.  
+- 👯 Eager to collaborate on impactful solutions and open-source projects.  
+- 🎯 Goal: Apply problem-solving and critical thinking to create meaningful solutions.  
+- ⚡ Fun Fact: Selected as **Runner-up at J.P. Morgan Code for Good 2025**, chosen from over **50,000 applicants**.  
+
+  
 
   <h2>🛠️ Technical Skills</h2>
   <b>Programming Languages & Concepts</b><br>
