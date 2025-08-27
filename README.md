@@ -85,17 +85,14 @@ I am a passionate **Computer Science student** dedicated to continuous learning 
 </div>
 
 ---
-
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rawatkhushi04&show_icons=true&theme=radical" alt="Khushi's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawatkhushi04&theme=radical" alt="Khushi's GitHub Streak Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=rawatkhushi04&theme=radical" alt="Khushi's GitHub Streak Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatkhushi04&layout=compact&theme=radical" alt="Khushi's Top Languages" height="180"/>
 </div>
-
 ---
-
 <div align="center">
   ⭐ From <b>@rawatkhushi04</b>
 </div>
+
