@@ -1,3 +1,20 @@
+<div align="center">
+
+<img src="[YOUR_PROFILE_PICTURE_URL](https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0)" alt="Km Khushi" width="180" style="border-radius:50%"/>
+
+# Km Khushi
+
+**AI Enthusiast | Machine Learning Developer | Problem Solver**
+
+Driven by a passion for technology and innovation, I strive to lead and develop impactful solutions in the tech sector.
+
+🌏 Dehradun, India  
+📧 rwtkhushi2004@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-rawat-907676270)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rawatkhushi04)
+
+</div>
+
 # Hi there! 👋 I'm Km Khushi
 
 <div align="center">
