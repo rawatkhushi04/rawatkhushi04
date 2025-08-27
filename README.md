@@ -63,20 +63,18 @@ I am a passionate **Computer Science student** dedicated to continuous learning 
 
 ---
 
-##🏆 Certifications & Achievements
-🥇 Runner-up, J.P. Morgan Code for Good 2025 (National Hackathon) — Selected from 50,000+ applicants.
+## 🏆 Certifications & Achievements
 
-☁️ AWS Cloud Quest: Cloud Practitioner — Amazon Web Services (AWS).
+- 🥇 **Runner-up, J.P. Morgan Code for Good 2025 (National Hackathon)** — Selected from 50,000+ applicants.
+- ☁️ **AWS Cloud Quest: Cloud Practitioner** — Amazon Web Services (AWS).
+- 🧠 **Prompt Design in Vertex AI Skill Badge** — Google Cloud.
+- 🧠 **Getting Started with Artificial Intelligence** — IBM SkillsBuild, Issued Jul 16, 2025.
+- ☁️ **Journey to Cloud: Envisioning Your Solution** — IBM SkillsBuild, Issued Jul 19, 2025.
+- 🏅 **Salesforce Developer With Agentblazer Champion Program** — SmartBridge/Salesforce, Issued Aug 8, 2025.
+- 📊 **Data Analytics Job Simulation** — Deloitte, Issued Jul 21, 2025.
 
-🧠 Prompt Design in Vertex AI Skill Badge — Google Cloud.
 
-🧠 Getting Started with Artificial Intelligence — IBM SkillsBuild, Issued July 16, 2025.
 
-☁️ Journey to Cloud: Envisioning Your Solution — IBM SkillsBuild, Issued July 19, 2025.
-
-🏅 Salesforce Developer With Agentblazer Champion Program — SmartBridge/Salesforce, Issued August 8, 2025.
-
-📊 Data Analytics Job Simulation — Deloitte, Issued July 21, 2025.
 
 ---
 
