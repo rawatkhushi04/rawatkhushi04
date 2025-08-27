@@ -63,7 +63,7 @@ I am a passionate **Computer Science student** dedicated to continuous learning 
 
 ---
 
-🏆 Certifications & Achievements
+##🏆 Certifications & Achievements
 🥇 Runner-up, J.P. Morgan Code for Good 2025 (National Hackathon) — Selected from 50,000+ applicants.
 
 ☁️ AWS Cloud Quest: Cloud Practitioner — Amazon Web Services (AWS).
