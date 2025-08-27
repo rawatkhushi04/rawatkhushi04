@@ -7,7 +7,7 @@
   <h2>🚀 About Me</h2>
   I am a passionate <b>Computer Science student</b> dedicated to continuous learning and professional growth. My goal is to leverage my technical skills and academic knowledge to contribute effectively to <b>innovative projects</b>.<br>
   <ul>
-    <li>🔭 Currently working on <b>CPU Scheduling Visualizer</b> and <b>Handwritten Character Recognition</b> projects.</li>
+    
     <li>🌱 Constantly expanding my knowledge in <b>Machine Learning, Cloud Computing, and AI development</b>.</li>
     <li>👯 Eager to collaborate on impactful solutions and open-source projects.</li>
     <li>🎯 Goal: Apply problem-solving and critical thinking to create meaningful solutions.</li>
