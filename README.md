@@ -73,7 +73,14 @@ I am a passionate **Computer Science student** dedicated to continuous learning 
 - 🏅 **Salesforce Developer With Agentblazer Champion Program** — SmartBridge/Salesforce, Issued Aug 8, 2025.
 - 📊 **Data Analytics Job Simulation** — Deloitte, Issued Jul 21, 2025.
 
+### Certificate Gallery
 
+<div align="center">
+  <img src="[IMAGE_LINK_IBM_AI](https://www.credly.com/badges/de49e200-8b2f-4609-9263-ff84596564e4/public_url)" alt="IBM Getting Started with AI" width="200"/>
+  <img src="[IMAGE_LINK_IBM_CLOUD](https://www.credly.com/badges/7ed15919-fe1c-4733-b0b7-cd0658717c7d/public_url)" alt="IBM Journey to Cloud" width="200"/>
+  <img src="" alt="Salesforce Developer With Agentblazer" width="300"/>
+  <img src="[IMAGE_LINK_DELOITTE](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_2a2x98vHLp67SjTZo_1753083326799_completion_certificate.pdf)" alt="Deloitte Data Analytics Job Simulation" width="180"/>
+</div>
 
 
 ---
