@@ -1,5 +1,5 @@
 
-  <h1>Hi there! 👋 I'm Km Khushi</h1>
+  <h1>Hi there! 👋 I'm Khushi Rawat</h1>
     <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
   </div>
