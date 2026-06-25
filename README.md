@@ -43,6 +43,11 @@
   </div>
 
   <h2>🌟 Featured Projects</h2>
+  <b>🛍️ <a href="https://github.com/rawatkhushi04/Customer-segmentation-and-recommendation-system">Customer Segmentation & Recommendation System</a></b><br>
+- Tech Stack: <b>React, FastAPI, SQLite, scikit-learn</b><br>
+- Built a full-stack ML application that clusters customers using <b>K-Means</b> and generates personalised product recommendations.<br>
+- Features <b>JWT authentication</b>, admin analytics dashboard, A/B testing, shopping cart, and order history.<br>
+<br>
   <b>💻 <a href="https://github.com/rawatkhushi04/CPU-Scheduling-Visualizer">CPU Scheduling Visualizer</a></b><br>
   - Built using: <b>HTML, CSS, JavaScript</b><br>
   - Implements interactive Gantt chart & input panel for real-time scheduling simulation.<br>
