@@ -178,16 +178,14 @@ I'm an enthusiastic <b>Software Engineer</b> passionate about learning and build
 
   <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rawatkhushi04&show_icons=true&theme=radical&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatkhushi04&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rawatkhushi04&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rawatkhushi04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatkhushi04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </div>
   <h2>🌐 Connect With Me</h2>
 
