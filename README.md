@@ -5,7 +5,7 @@
   </div>
 
   <h2>🚀 About Me</h2>
-  I am a passionate <b>Computer Science student</b> dedicated to continuous learning and professional growth. My goal is to leverage my technical skills and academic knowledge to contribute effectively to <b>innovative projects</b>.<br>
+  Software Engineer passionate about building scalable web applications and AI-powered solutions. Experienced in Java, Spring Boot, React, FastAPI, SQL, and Machine Learning through industry projects and hackathons. I enjoy solving real-world problems, learning new technologies, and collaborating on impactful products.</b>.<br>
 
     
      
@@ -15,58 +15,149 @@
 - ⚡ Fun Fact: Selected as **Runner-up at J.P. Morgan Code for Good 2025**, chosen from over **50,000 applicants**.  
 
   
+<h2>🛠️ Technical Skills</h2>
 
-  <h2>🛠️ Technical Skills</h2>
-  <b>Programming Languages & Concepts</b><br>
-  <div align="left">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </div>
+<b>Programming Languages</b><br>
 
-  <b>Machine Learning Tools</b><br>
-  <div align="left">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
-  </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</div>
 
-  <b>Developer Tools</b><br>
-  <div align="left">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </div>
+<br>
+
+<b>Frontend Development</b><br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</div>
+
+<br>
+
+<b>Backend Development</b><br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" alt="JPA"/>
+</div>
+
+<br>
+
+<b>Databases</b><br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+ 
+</div>
+
+<br>
+
+<b>Machine Learning & AI</b><br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" alt="NLP"/>
+</div>
+
+<br>
+
+<b>Developer Tools & Platforms</b><br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+</div>
 
   <h2>🌟 Featured Projects</h2>
-  <b>🛍️ <a href="https://github.com/rawatkhushi04/Customer-segmentation-and-recommendation-system">Customer Segmentation & Recommendation System</a></b><br>
-- Tech Stack: <b>React, FastAPI, SQLite, scikit-learn</b><br>
-- Built a full-stack ML application that clusters customers using <b>K-Means</b> and generates personalised product recommendations.<br>
-- Features <b>JWT authentication</b>, admin analytics dashboard, A/B testing, shopping cart, and order history.<br>
+
+<b>🤖 <a href="https://github.com/Pavi2726/agentic-document-intelligence-platform">Agentic Document Intelligence Platform</a></b><br>
+
+* Tech Stack: <b>Python, FastAPI, React, TypeScript, PostgreSQL, FAISS, Neo4j, Groq LLM</b><br>
+* Developed a full-stack <b>AI-powered document intelligence platform</b> with a multi-agent Retrieval-Augmented Generation (RAG) system for intelligent document analysis and conversational search.<br>
+* Implemented secure authentication, document upload and processing for <b>PDF, DOCX, and TXT</b> files with intelligent chunk-based indexing.<br>
+* Built semantic vector search using <b>FAISS</b>, knowledge graph visualization with <b>Neo4j</b>, AI chat with streaming responses, analytics dashboard, and conversation management.<br>
+
 <br>
-  <b>💻 <a href="https://github.com/rawatkhushi04/CPU-Scheduling-Visualizer">CPU Scheduling Visualizer</a></b><br>
-  - Built using: <b>HTML, CSS, JavaScript</b><br>
-  - Implements interactive Gantt chart & input panel for real-time scheduling simulation.<br>
-  - Supports performance comparison of multiple scheduling algorithms.<br>
-  <br>
-  <b>✍️ <a href="https://github.com/rawatkhushi04/Hindi-Handwritten-Character-Recognition">Hindi Handwritten Character Recognition</a></b><br>
-  - Tech Stack: <b>Python, TensorFlow, Keras</b><br>
-  - Leveraged the <b>DHCD (Devanagari Handwritten Character Dataset)</b>.<br>
-  - Trained a Convolutional Neural Network (CNN) with <b>97% accuracy</b> on unseen characters.<br>
-  <br>
-  <b>📊 <a href="https://github.com/rawatkhushi04/Sentiment-Analysis-of-Student-Reviews">Sentiment Analysis of Student Reviews</a></b><br>
-  - Tech Stack: <b>Python, NLP</b><br>
-  - Preprocessed student reviews using tokenization & lemmatization.<br>
-  - Trained two models: <b>Naïve Bayes (82%)</b> and <b>Decision Tree (98%)</b> classifiers.<br>
-  <br>
-  <b>💻 <a href="https://github.com/rawatkhushi04/Real-time-lexical-analyzer">Real-Time Lexical Analyzer for C</a></b><br>
-  - Web-based tool that analyzes C source code in real-time, identifying lexical components like keywords, identifiers, constants, operators, and symbols<br>
-  - Uses regex-based token extraction for immediate feedback without compilation<br>
-  - Built with HTML, CSS, and JavaScript to provide an interactive and clean UI<br>
+
+<b>🛍️ <a href="https://github.com/rawatkhushi04/Customer-segmentation-and-recommendation-system">Customer Segmentation & Recommendation System</a></b><br>
+
+* Tech Stack: <b>React, FastAPI, SQLite, Scikit-learn</b><br>
+* Developed a full-stack machine learning application that segments customers using <b>K-Means clustering</b> and generates personalized product recommendations.<br>
+* Integrated <b>JWT authentication</b>, admin analytics dashboard, A/B testing, shopping cart, and order history features.<br>
+* Designed an intuitive user interface for customer insights, recommendation visualization, and user management.<br>
+
+<br>
+
+<b>🚗 <a href="https://github.com/hr-k001/vehicle_license_app">Vehicle License Management System</a></b><br>
+
+* Tech Stack: <b>Java, Spring Boot, React, Vite, Maven, REST APIs</b><br>
+* Developed a full-stack web application that simulates an <b>RTO (Regional Transport Office)</b> portal for learner and driving license management.<br>
+* Built RESTful APIs for applicant registration, license applications, approvals, license generation, reporting, and search functionalities using <b>Spring Boot</b>.<br>
+* Designed responsive applicant and RTO dashboards with seamless frontend-backend integration using <b>React</b> and REST APIs.<br>
+
+<br>
+
+<b>💻 <a href="https://github.com/rawatkhushi04/CPU-Scheduling-Visualizer">CPU Scheduling Visualizer</a></b><br>
+
+* Tech Stack: <b>HTML, CSS, JavaScript</b><br>
+* Developed an interactive visualization tool for simulating popular CPU scheduling algorithms with dynamic <b>Gantt Chart</b> generation.<br>
+* Implemented real-time input handling and performance metrics including waiting time, turnaround time, and CPU utilization.<br>
+* Enabled easy comparison of multiple scheduling algorithms through an intuitive and responsive user interface.<br>
+
+<br>
+
+<b>✍️ <a href="https://github.com/rawatkhushi04/Hindi-Handwritten-Character-Recognition">Hindi Handwritten Character Recognition</a></b><br>
+
+* Tech Stack: <b>Python, TensorFlow, Keras</b><br>
+* Developed a deep learning model using the <b>DHCD (Devanagari Handwritten Character Dataset)</b> for handwritten Hindi character recognition.<br>
+* Trained a <b>Convolutional Neural Network (CNN)</b> achieving <b>97% accuracy</b> on unseen handwritten characters.<br>
+* Applied image preprocessing, feature extraction, and model evaluation techniques to improve prediction accuracy.<br>
+
+<br>
+
+<b>📊 <a href="https://github.com/rawatkhushi04/Sentiment-Analysis-of-Student-Reviews">Sentiment Analysis of Student Reviews</a></b><br>
+
+* Tech Stack: <b>Python, NLP, Scikit-learn</b><br>
+* Built a sentiment analysis system to classify student reviews using Natural Language Processing techniques.<br>
+* Performed text preprocessing including tokenization, stop-word removal, and lemmatization for improved model performance.<br>
+* Trained and evaluated <b>Naïve Bayes (82%)</b> and <b>Decision Tree (98%)</b> classifiers for sentiment prediction.<br>
+
+<br>
+
+<b>💻 <a href="https://github.com/rawatkhushi04/Real-time-lexical-analyzer">Real-Time Lexical Analyzer for C</a></b><br>
+
+* Tech Stack: <b>HTML, CSS, JavaScript</b><br>
+* Developed a web-based lexical analyzer that performs real-time tokenization of C source code without requiring compilation.<br>
+* Identifies keywords, identifiers, constants, operators, symbols, and other lexical components using <b>regular expression-based parsing</b>.<br>
+* Designed an interactive and user-friendly interface for instant lexical analysis and code visualization.<br>
+
+
+
 
   <h2>🏆 Certifications & Achievements</h2>
   - 🥇 <b>Runner-up, J.P. Morgan Code for Good 2025 (National Hackathon)</b> — Selected from 50,000+ applicants.<br>
@@ -87,5 +178,17 @@
   <div align="center">
     ⭐ From <b>@rawatkhushi04</b>
   </div>
+  <h2>🌐 Connect With Me</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/khushi-rawat-907676270" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/rawatkhushi04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rawatkhushi04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
 
 </td> 
