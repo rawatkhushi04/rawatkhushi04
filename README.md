@@ -1,19 +1,27 @@
 
-  <h1>Hi there! 👋 I'm Khushi Rawat</h1>
-    <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
-  </div>
 
-  <h2>🚀 About Me</h2>
-  Software Engineer passionate about building scalable web applications and AI-powered solutions. Experienced in Java, Spring Boot, React, FastAPI, SQL, and Machine Learning through industry projects and hackathons. I enjoy solving real-world problems, learning new technologies, and collaborating on impactful products.</b>.<br>
 
-    
-     
-- 🌱 Constantly expanding my knowledge in **Machine Learning, Cloud Computing, and AI development**.  
-- 👯 Eager to collaborate on impactful solutions and open-source projects.  
-- 🎯 Goal: Apply problem-solving and critical thinking to create meaningful solutions.  
-- ⚡ Fun Fact: Selected as **Runner-up at J.P. Morgan Code for Good 2025**, chosen from over **50,000 applicants**.  
+<h1 align="center">Hi there! 👋 I'm Khushi Rawat</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+</div>
+
+<h2>🚀 About Me</h2>
+
+I'm an enthusiastic <b>Software Engineer</b> passionate about learning and building technology that solves real-world problems. I enjoy exploring <b>Full-Stack Development</b>, <b>Artificial Intelligence</b>, and modern software technologies. Through projects, hackathons, and continuous learning, I'm strengthening my skills while creating practical and impactful solutions.<br><br>
+
+- 🌱 Currently exploring <b>Machine Learning, Cloud Computing, Microservices, and AI Development</b>.
+- 💻 Experienced in <b>Java, Spring Boot, React, FastAPI, TypeScript, SQL, and REST APIs</b>.
+- 🤝 Open to collaborating on <b>Full-Stack, AI, and Open Source projects</b>.
+- 🎯 Passionate about designing scalable software and delivering impactful solutions.
+- 🏆 Runner-up at <b>J.P. Morgan Code for Good 2025</b>, selected from <b>50,000+ applicants</b>.
+
+
+
+
+
+ 
   
 <h2>🛠️ Technical Skills</h2>
 
@@ -169,15 +177,18 @@
   - 📊 <b>Data Analytics Job Simulation</b> — Deloitte, Issued Jul 21, 2025.<br>
 
   <h2>📊 GitHub Stats</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rawatkhushi04&show_icons=true&theme=radical" alt="Khushi's GitHub Stats" height="180"/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatkhushi04&layout=compact&theme=radical" alt="Khushi's Top Languages" height="180"/>
-  </div>
-  <br>
-  <div align="center">
-    ⭐ From <b>@rawatkhushi04</b>
-  </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rawatkhushi04&show_icons=true&theme=radical&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatkhushi04&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rawatkhushi04&theme=radical&hide_border=true" />
+</div>
   <h2>🌐 Connect With Me</h2>
 
 <div align="left">
