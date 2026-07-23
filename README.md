@@ -176,7 +176,7 @@ I'm an enthusiastic <b>Software Engineer</b> passionate about learning and build
   - 🏅 <b>Salesforce Developer With Agentblazer Champion Program</b> — SmartBridge/Salesforce, Issued Aug 8, 2025.<br>
   - 📊 <b>Data Analytics Job Simulation</b> — Deloitte, Issued Jul 21, 2025.<br>
 
-  <h2>📊 GitHub Stats</h2>
+ 
 
 <h2>📊 GitHub Stats</h2>
 
