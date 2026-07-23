@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi there! 👋 I'm Khushi Rawat</h1>
 
 <div align="center">
@@ -178,11 +175,6 @@ I'm an enthusiastic <b>Software Engineer</b> passionate about learning and build
 
  
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawatkhushi04&show_icons=true&theme=radical&hide_border=true" />
-</p>
   <h2>🌐 Connect With Me</h2>
 
 <div align="left">
