@@ -127,6 +127,13 @@ I'm an enthusiastic <b>Software Engineer</b> passionate about learning and build
 
 <br>
 
+
+<b>📚 <a href="https://github.com/rawatkhushi04/Multi-Branch-Library-Management">Multi-Branch Library Management System</a></b><br>
+- Tech Stack: <b>Java, Spring Boot, React, MySQL, JPA/Hibernate, REST APIs</b><br>
+- Developed a full-stack library management system to streamline operations across <b>multiple library branches</b>, providing centralized management of books, members, and branch records.<br>
+- Implemented features including <b>book catalog management, member registration, book issue/return, branch-wise inventory tracking, and search functionality</b> using Spring Boot and JPA/Hibernate.<br>
+- Designed RESTful APIs and integrated a <b>React</b> frontend with a MySQL database to deliver an efficient and user-friendly library management experience.<br>
+
 <b>💻 <a href="https://github.com/rawatkhushi04/CPU-Scheduling-Visualizer">CPU Scheduling Visualizer</a></b><br>
 
 * Tech Stack: <b>HTML, CSS, JavaScript</b><br>
